@@ -266,7 +266,7 @@ void setup() {
   pServer->getAdvertising()->start();
 
 
-.
+
   // Initialize motors to pins
   pinMode(motor1Pin1, OUTPUT);
   pinMode(motor1Pin2, OUTPUT);
